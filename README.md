@@ -1,5 +1,5 @@
 # Todo-management-angular-app
-Angular based application using angular 
+Angular based task management application
 
 
 This is a complete Todo application consisting of bootstrap, angular CLI. Where one can add new tasks, delete existing tasks and update the list of tasks.
